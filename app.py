@@ -1,3 +1,12 @@
 import os
+import pathlib
 
-os.path('/hello word')
+def hello_world():
+    return "hello tere"
+
+def handle_open():
+    return "hello world!"
+
+def piphello(){
+    return "def render 100"
+}
